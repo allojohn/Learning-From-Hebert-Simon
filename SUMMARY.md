@@ -11,6 +11,6 @@
 * [秘密武器](mi-mi-wu-qi.md)
 * [设计--从知识到行动](she-8ba1-cong-zhi-shi-dao-xing-dong.md)
 * [入世](ru-shi.md)
-* 朋友
+* [朋友](peng-you.md)
 * [some quotations](some-quotations.md)
 
