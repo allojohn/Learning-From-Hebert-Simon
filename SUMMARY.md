@@ -12,4 +12,5 @@
 * [设计--从知识到行动](she-8ba1-cong-zhi-shi-dao-xing-dong.md)
 * [入世](ru-shi.md)
 * 朋友
+* [some quotations](some-quotations.md)
 
