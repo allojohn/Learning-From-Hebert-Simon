@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1-the science of the artificial.md)
-* [最好是好的敌人](zui-hao-shi-hao-de-di-ren.md)
 * [框架大于勤奋](mo-shi-da-yu-qin-fen.md)
+* [最好是好的敌人](zui-hao-shi-hao-de-di-ren.md)
 * [科学的人](ke-xue-de-ren.md)
 * [模拟作为发现新事物的手段](mo-ni-zuo-wei-fa-xian-xin-shi-wu-de-shou-duan.md)
 * 迷宫
